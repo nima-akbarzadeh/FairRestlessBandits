@@ -10,5 +10,5 @@ the fair version of deep Q-learning Network (DQN) is introduced in dqn_mrp.py.
 
 The main.py is the main file and main-hyper.py is a quick parameter tuning version of the original file.
 
-The performance of the algorithms are compared against solving the dual optimization problem.
+The performance of the algorithms are compared against solving the dual optimization problem (dual_mdp.py).
 
